@@ -1,5 +1,6 @@
 # studentTablex
 学习react时参考腾讯alloyteam博客，用es6写的一个组件通信的练习demo，功能很简单，展示学生成绩列表，支持按性别和姓名筛选。效果如下：
+<br>
 ![](/build/demo.gif)
 
 ## React中组件通信的三种方法
